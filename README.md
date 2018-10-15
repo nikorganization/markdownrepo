@@ -49,4 +49,9 @@ Nikc Jones|Terry Jones|Mark Jones
 
 ~~cross this word~~
 
+- [x] @myusername, #jb referense, [](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
+
 :laughing: :fire: :laughing: :fire: :laughing: :fire:
