@@ -2,23 +2,24 @@
 
 # token
 
-**Bold text.**
 
 # Country
 ## State
 ### City
 
-**Emphasis**
+
 *Italic text*
+
 _Itallic text_
 
-**Bold text**
-__Bold text__
+**This text is very bold**
 
-* List1
-* List2
-  * List 2a
-  * List 2b
+__This one too but with different formating__
+
+* Car
+* Bus
+  * Smal bus
+  * Big bus
   
 ![](https://res.cloudinary.com/sagacity/image/upload/c_crop,h_2832,w_4256,x_0,y_0/c_limit,f_auto,fl_lossy,q_80,w_1080/shutterstock_147330278_axratp.jpg)
 
