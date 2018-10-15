@@ -8,9 +8,9 @@
 ### City
 
 
-*Italic text*
+*This text is italic because it is from Italy*
 
-_Itallic text_
+_This one is from Italy too_
 
 **This text is very bold**
 
